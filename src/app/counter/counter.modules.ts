@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
-import { CounterComponent } from './components/counter/counter.component';
 
+import { CounterComponent } from './components/counter/counter.component';
 
 @NgModule({
   declarations:[
@@ -8,6 +8,7 @@ import { CounterComponent } from './components/counter/counter.component';
   ],
   exports:[
     CounterComponent
-  ]
+  ],
+
 })
 export class CounterModule {}
