@@ -31,7 +31,7 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "https://[path]",
+              "baseHref": "https://home/yua/Escritorio/Angular/02-bases",
               "budgets": [
                 {
                   "type": "initial",
